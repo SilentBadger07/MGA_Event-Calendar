@@ -56,11 +56,6 @@
 		text-shadow: 1px 1px 1px black;
 	}
 	
-	#pdfViewer {
-		width: 85%;
-		height: 1000px;
-	}
-	
 	h2 {
 		text-shadow: 5px 5px 5px black;
 		text-decoration:underline;
